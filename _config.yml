@@ -16,7 +16,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale: "ko-KR"
-title: "Haneul's blog"
+title: "HANEUL'S BLOG"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "johaneul"
@@ -25,7 +25,7 @@ url: "https://gksmf9655.github.io" # the base hostname & protocol for your site 
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: "/assets/images/HANEUL.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -92,17 +92,16 @@ analytics:
 
 # Site Author
 author:
-  name: "Jo ha neul"
+  name: "JO HA NEUL"
   avatar: "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "데이터 시각화와 프론트엔드에 
-  관심이 많은 조하늘입니다 ª'--'ª"
+  bio: "데이터 시각화와 프론트엔드에<br/> 관심이 많은 조하늘입니다"
   location: "Korea"
   email: "gksmf9655@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: mailto:gksmf9655@gmail.com
-    - label: "Website"
+    - label: "DNA blog"
       icon: "fas fa-fw fa-link"
       url: "https://datanetworkanalysis.github.io/"
     - label: "Twitter"
