@@ -94,7 +94,8 @@ analytics:
 author:
   name: "Jo ha neul"
   avatar: "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "데이터 시각화와 프론트엔드에 관심이 많은 조하늘입니다 ª'--'ª"
+  bio: "데이터 시각화와 프론트엔드에 
+  관심이 많은 조하늘입니다 ª'--'ª"
   location: "Korea"
   email: "gksmf9655@gmail.com"
   links:
